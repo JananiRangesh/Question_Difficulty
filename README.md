@@ -31,3 +31,9 @@ The difficulty can be calculated based on the following factors:
               Manually set difficulty:
               Total no.of  students:
               Question Difficulty:
+
+
+
+
+
+Run "QuestionDifficulty.java" along with input file"inputData2" to obtain expected output.
